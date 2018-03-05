@@ -1,6 +1,6 @@
 # Fusion Table Searchable Map Template
 
-
+[See the working demo &raquo;](http://Pujesk.github.io/FusionTable-Map-Template/]
 
 
 
